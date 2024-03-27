@@ -1,0 +1,7 @@
+echo "# ysluoli" >> README.md 
+git init 
+git add README.md 
+git commit -m “第一次提交” 
+git分支 -M main 
+git 远程添加原点https://github.com/ysluoli/ysluoli.git
+ git push - u 起源主要
